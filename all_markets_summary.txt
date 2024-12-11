@@ -1,0 +1,80 @@
+
+Market: United States
+  Total Revenue: $14,777,164.51
+  Total Spend: $0.00
+  Overall ROAS: $0.00
+  Revenue per $1 spent: $0.00
+  Correlation: nan
+
+
+Market: Austria
+  Total Revenue: $1,568,310.78
+  Total Spend: $11,988.98
+  Overall ROAS: $130.81
+  Revenue per $1 spent: $-0.14
+  Correlation: -0.014
+
+
+Market: Australia
+  Total Revenue: $1,677,364.90
+  Total Spend: $8,199.51
+  Overall ROAS: $204.57
+  Revenue per $1 spent: $4.75
+  Correlation: 0.199
+
+
+Market: Canada
+  Total Revenue: $1,121,714.58
+  Total Spend: $6,267.89
+  Overall ROAS: $178.96
+  Revenue per $1 spent: $4.05
+  Correlation: 0.197
+
+
+Market: ROW
+  Total Revenue: $323,912.85
+  Total Spend: $0.00
+  Overall ROAS: $0.00
+  Revenue per $1 spent: $0.00
+  Correlation: nan
+
+
+Market: United Kingdom
+  Total Revenue: $10,769,826.90
+  Total Spend: $487,259.58
+  Overall ROAS: $22.10
+  Revenue per $1 spent: $5.39
+  Correlation: 0.400
+
+
+Market: EU
+  Total Revenue: $11,232,067.47
+  Total Spend: $0.00
+  Overall ROAS: $0.00
+  Revenue per $1 spent: $0.00
+  Correlation: nan
+
+
+Market: Ireland
+  Total Revenue: $7,800,842.92
+  Total Spend: $467,201.71
+  Overall ROAS: $16.70
+  Revenue per $1 spent: $10.61
+  Correlation: 0.723
+
+
+Market: Germany
+  Total Revenue: $7,163,804.09
+  Total Spend: $144,478.84
+  Overall ROAS: $49.58
+  Revenue per $1 spent: $9.11
+  Correlation: 0.496
+
+
+Market: France
+  Total Revenue: $7,986,881.42
+  Total Spend: $339,853.87
+  Overall ROAS: $23.50
+  Revenue per $1 spent: $7.52
+  Correlation: 0.434
+
